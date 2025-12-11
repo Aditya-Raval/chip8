@@ -86,7 +86,4 @@ Writing a CHIP‑8 emulator teaches:
 ✔ Opcode decoding & bitwise ops  
 ✔ Graphics rendering & input handling  
 
-## 📄 License
-
-*(Add your chosen license here, e.g., MIT / GPL)*
 
