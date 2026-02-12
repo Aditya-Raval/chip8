@@ -1,6 +1,6 @@
 # CHIP‑8 Emulator
 
-A simple **CHIP‑8 emulator** written in C/C++ with build support using CMake and a Makefile.
+A simple **CHIP‑8 emulator** written in C with build support using CMake and a Makefile.
 
 CHIP‑8 is a **simple interpreted language** from the 1970s originally developed for 8‑bit computers like the COSMAC VIP and Telmac 1800. It’s a popular first‑time emulator project due to its simplicity and small opcode set.
 
